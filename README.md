@@ -2,8 +2,15 @@
 
 ##### Typescript time based synchronous queue to add task with pause functionality
 
+#### Installation
+```
+npm i synchronous-timer-queue --save
+```
+
 #### Usage
 ```
+    import TimerQueue from 'synchronous-timer-queue';
+    
     const timerQueue = new TimerQueue();
     
     timerQueue.addTask(() => {
