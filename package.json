@@ -1,0 +1,19 @@
+{
+  "name": "synchonous-timer-queue",
+  "version": "1.0",
+  "description": "Typescript time based synchronous queue to add task with pause functionality",
+  "main": "timerQueue.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a7urag/timerQueue"
+  },
+  "keywords": [
+    "timer",
+    "queue",
+    "synchronous",
+    "task",
+    "pause"
+  ],
+  "author": "Anurag Chutani",
+  "license": "ISC"
+}
